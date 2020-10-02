@@ -1,0 +1,1 @@
+<iframe src="<?= base_url() ?>reporte/ventapdf" width="100%" height="650" frameborder="0"></iframe>
